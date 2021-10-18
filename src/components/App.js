@@ -4,6 +4,8 @@ import Login from './Login';
 export default function App() {
 
   return (
-    <Login></Login>
+    <div style={{ background: '#4F4D52'}}>
+      <Login></Login>
+    </div>
   )
 }
